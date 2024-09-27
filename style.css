@@ -104,7 +104,7 @@ nav #check {
         cursor: pointer;
     }
 
-@media (max-width: 885px) {
+@media (max-width: 926px) {
     nav{
        /* position: relative; */
        background: #201a0b;
